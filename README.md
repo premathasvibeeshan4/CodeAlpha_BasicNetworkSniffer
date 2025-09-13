@@ -30,7 +30,7 @@ Setup Instructions (Ubuntu)
 
 1. Clone the Repository
 
-              git clone https://github.com/your-username/CodeAlpha_BasicNetworkSniffer.git
+              git clone https://github.com/premathasvibeeshan4/CodeAlpha_BasicNetworkSniffer/tree/main
               cd CodeAlpha_BasicNetworkSniffer
 
 2. Create Virtual Environment (recommended)
